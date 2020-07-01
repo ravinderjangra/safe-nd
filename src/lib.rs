@@ -33,6 +33,7 @@ mod errors;
 mod identity;
 mod immutable_data;
 mod keys;
+mod map;
 mod mutable_data;
 mod request;
 mod response;
